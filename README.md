@@ -1,4 +1,6 @@
 # AutoAI Crop Recommendation System using IBM watsonx.ai
+<img width="1920" height="1080" alt="Screenshot (296)" src="https://github.com/user-attachments/assets/54087f09-5c33-48a2-8af6-904321a50f62" />
+<img width="1920" height="1080" alt="Screenshot (297)" src="https://github.com/user-attachments/assets/0b8bbe36-fa7e-46d8-8c9c-9494683e5584" />
 
 This project demonstrates the use of **IBM's AutoAI capabilities** within the `watsonx.ai Studio` to build, deploy, and test a machine learning model for crop recommendation. The model predicts the most suitable crop to grow based on various environmental and soil parameters, aiming to maximize agricultural yield through precision agriculture. 
 
